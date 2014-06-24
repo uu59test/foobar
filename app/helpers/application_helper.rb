@@ -1,5 +1,5 @@
 module ApplicationHelper
   def foo
-    'rubocop will angry'
+    'rubocop will angry aaaa'
   end
 end
